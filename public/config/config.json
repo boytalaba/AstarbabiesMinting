@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCb3c7a47F47a85F34ad8Ded37FE143318E86B639",
+  "SCAN_LINK": "https://blockscout.com/astar/address/0xCb3c7a47F47a85F34ad8Ded37FE143318E86B639",
+  "NETWORK": {
+    "NAME": "Astar",
+    "SYMBOL": "ASTR",
+    "ID": 592
+  },
+  "NFT_NAME": "Astar Babies",
+  "SYMBOL": "ASTRBB",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 150000000000000000000,
+  "DISPLAY_COST": 150,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
